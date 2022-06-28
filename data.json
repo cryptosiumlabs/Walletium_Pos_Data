@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Club 1500ml",
+    "image": "Club_1500.jpg",
+    "price": "0.31"
+  },
+  {
+    "name": "GoodDay_250ml",
+    "image": "GoodDay_250.jpg",
+    "price": "0.49"
+  },
+  {
+    "name": "Coca-Cola_330ml",
+    "image": "Coca-Cola_330.jpg",
+    "price": "0.52"
+  }
+]
